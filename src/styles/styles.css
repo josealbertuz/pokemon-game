@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: calc(0.3em + 1vw);
+    font-family: "Press Start 2P", sans-serif;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+}
